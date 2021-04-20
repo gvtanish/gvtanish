@@ -13,38 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on <br>
 -->
-<h1 align="center">Hi 👋, I'm K.Boopathi</h1>
+<h1 align="center">Hi 👋, I'm G V TANISH VETTRIVEL</h1>
 <img src="./img/hero.gif" alt="Coder GIF" width="" height="">
 <h3 align="center">Programmer with curious to learn different technology and develop cool product from that</h3>
 <br>
 
 - 🌱 I’m currently doing **project** 
-- 💬 Ask me about anything [here](https://github.com/programmerraja/programmerraja/issues)
+- 💬 Ask me about anything [here](https://github.com/gvtanish/gvtanish/issues)
 
 <br>
 
 <p align="left">
-  
-  <img src="./img/c.svg" alt="c" width="40" height="40"/>
-  <img src="./img/c++.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="./img/python.png" alt="python" width="40" height="40"/>
-  <img src="./img/nodejs.png" alt="node" width="40" height="40"/> 
   <img src="./img/html.png" alt="html5" width="40" height="40"/>
   <img src="./img/css.png" alt="css3" width="40" height="40"/> 
-  <img src="./img/javascript.png" alt="javascript" width="40" height="40"/> 
-  <img src="./img/react.png" alt="react" width="40" height="40"/>
-  <img src="./img/bootstrap.png" alt="bootstrap" width="40" height="40"/>
-  <img src="./img/mysql.svg" alt="mysql" width="40" height="40"/> 
-  <img src="./img/firebase.png" alt="firebase" width="40" height="40"/>
-  <img src="./img/mongodb.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="./img/expressjs.png" alt="expressjs" width="40" height="40"/> 
-  <img src="./img/jquery.png" alt="jquery" width="40" height="40"/>
-  <img src="./img/java.svg" alt="java" width="40" height="40"/> 
 </p>
 <br>
 <p align = "center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/k-boopathi-5b475a169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="k.boopathi" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UC2oJSUOdsZh3ih_jLYNfu1w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="progrrammerraja" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UC2oJSUOdsZh3ih_jLYNfu1w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="progrrammerraja" height="30" width="30" /></a>
 </p>
 <br>
