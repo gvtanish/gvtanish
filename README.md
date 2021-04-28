@@ -3,15 +3,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I’m currently working on <br>
+- 🔭 I’m currently working on ... KANNAN TRNASPORTS & @MindsOfSharvesh
+- 🌱 I’m currently learning ... XML
+- 👯 I’m looking to collaborate on ... @VISAITHALAM
+- 🤔 I’m looking for help with ... COVID - 19 People
+- 💬 Ask me about ... My coding
+- 📫 How to reach me: ... tanishvettrivel2010@gmail
+- 😄 Pronouns: ... gvtanish
+- ⚡ Fun fact: ... I like youtbing
+<br>
 -->
 <h1 align="center">Hi 👋, I'm G V TANISH VETTRIVEL</h1>
 <img src="./img/hero.gif" alt="Coder GIF" width="" height="">
@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 <br>
 
 ### Opensource:
-
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest2020-firstcontribution-blueviolet)](https://hacktoberfest.digitalocean.com/profile)
 <br>
 <br>
 [![programmer raja github stats](https://github-readme-stats.vercel.app/api?username=gvtanish&show_icons=true&theme=radical)](https://github.com/gvtanish/github-readme-stats&show_icons=true&theme=radical)
