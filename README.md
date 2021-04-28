@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats..vercel.app/api/pin/?username=programmerraja&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats..vercel.app/api/pin/?username=gvtanish&repo=github-readme-stats&theme=radical" />
 </a>    
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gvtanish&repo=gvtanish.github.io&theme=radical" />
