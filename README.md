@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UC2oJSUOdsZh3ih_jLYNfu1w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="progrrammerraja" height="30" width="30" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gvtanish" alt="gvtanish" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mindsofsharvesh" alt="gvtanish" /> </p>
 <br>
 
 ### Opensource:
