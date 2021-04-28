@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UC2oJSUOdsZh3ih_jLYNfu1w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="progrrammerraja" height="30" width="30" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=progrrammerraja" alt="progrrammerraja" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gvtanish" alt="gvtanish" /> </p>
 <br>
 
 ### Opensource:
@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest2020-firstcontribution-blueviolet)](https://hacktoberfest.digitalocean.com/profile)
 <br>
 <br>
-[![programmer raja github stats](https://github-readme-stats.vercel.app/api?username=programmerraja&show_icons=true&theme=radical)](https://github.com/programmerraja/github-readme-stats&show_icons=true&theme=radical)
+[![programmer raja github stats](https://github-readme-stats.vercel.app/api?username=gvtanish&show_icons=true&theme=radical)](https://github.com/gvtanish/github-readme-stats&show_icons=true&theme=radical)
 
 
-<a href="https://github.com/programmerraja/github-readme-stats">
+<a href="https://github.com/gvtanish/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerraja&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvtanish&layout=compact&theme=radical" />
 </a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
