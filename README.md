@@ -54,5 +54,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats..vercel.app/api/pin/?username=programmerraja&repo=github-readme-stats&theme=radical" />
 </a>    
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerraja&repo=programmerraja.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gvtanish&repo=gvtanish.github.io&theme=radical" />
 </a>-->
