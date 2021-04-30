@@ -38,12 +38,11 @@ Here are some ideas to get you started:
 <br>
 
 ### Opensource:
-<br>
-<br>
-[![gvtanish github stats](https://github-readme-stats.vercel.app/api?username=gvtanish&show_icons=true&theme=radical)](https://github.com/gvtanish/github-readme-stats&show_icons=true&theme=radical)
+
+[![Gvtanish github stats](https://github-readme-stats.vercel.app/api?username=gvtanish&show_icons=true&theme=radical)](https://github.com/gvtanish/github-readme-stats&show_icons=true&theme=radical)
 
 
-<a href="https://github.com/gvtanish/github-readme-stats">
+<a href="https://github.com/programmerraja/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvtanish&layout=compact&theme=radical" />
 </a>
@@ -52,5 +51,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats..vercel.app/api/pin/?username=gvtanish&repo=github-readme-stats&theme=radical" />
 </a>    
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gvtanish&repo=gvtanish.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gvtanish&repo=programmerraja.github.io&theme=radical" />
 </a>-->
+
