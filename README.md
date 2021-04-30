@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### Opensource:
 <br>
 <br>
-[![programmer raja github stats](https://github-readme-stats.vercel.app/api?username=gvtanish&show_icons=true&theme=radical)](https://github.com/gvtanish/github-readme-stats&show_icons=true&theme=radical)
+[![gvtanish github stats](https://github-readme-stats.vercel.app/api?username=gvtanish&show_icons=true&theme=radical)](https://github.com/gvtanish/github-readme-stats&show_icons=true&theme=radical)
 
 
 <a href="https://github.com/gvtanish/github-readme-stats">
