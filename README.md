@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <br>
 -->
 <h1 align="center">Hi 👋, I'm G V TANISH VETTRIVEL</h1>
-<img src="./img/hero.gif" alt="Coder GIF" width="" height="">
+<img src="./img/hero.gif" alt="Coder GIF" width="" height="" align="center">
 <h3 align="center">Programmer with curious to learn different technology and develop cool product from that</h3>
 <br>
 
